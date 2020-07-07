@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75d8d071-3cc2-426a-8d63-abfe21daf5ca" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/../spl-net/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/dataBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+              <folding>
+                <element signature="e#1752#1753#0" expanded="true" />
+                <element signature="e#1787#1788#0" expanded="true" />
+                <element signature="e#1890#1891#0" expanded="true" />
+                <element signature="e#1922#1923#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/NonBlockingConnectionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="715">
+              <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/ConnectionsImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#948#949#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BGSServer/TPCMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/BGSProtocol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="93" column="59" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#14889#14890#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="99" column="31" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="31" />
+              <folding>
+                <element signature="e#2590#2591#0" expanded="true" />
+                <element signature="e#2621#2622#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/Reactor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="129" column="18" selection-start-line="129" selection-end-line="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BGSServer/ReactorMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contai</find>
+      <find>getFollowers</find>
+      <find>getFollowing</find>
+      <find>ADDFO</find>
+      <find>getfollow</find>
+      <find>contains</find>
+      <find>RegisteredUsers</find>
+      <find>conta</find>
+      <find>get</find>
+      <find>STAT</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/bidi/Connections.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/bidi/BidiMessagingProtocol.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/bidi/ConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/Message.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/FollowUnfollowMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/LoginMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/LogoutMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/PMMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/PostMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/RegisterMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/UserListRequestMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/StatsRequestMessage.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/ConnectionsImpl.java" />
+        <option value="$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/impl/echo/LineMessageEncoderDecoder.java" />
+        <option value="$PROJECT_DIR$/../spl-net/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BGSServer/TPCMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/api/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/dataBase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/api/BGSProtocol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/Reactor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BGSServer/ReactorMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/NonBlockingConnectionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bgu/spl/net/api/ConnectionsImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="383" />
+    <option name="y" value="53" />
+    <option name="width" value="917" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="api" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="api" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="messages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="impl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="impl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="BGSServer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Server" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Server" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bgu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spl" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="net" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="srv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546731364720" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75d8d071-3cc2-426a-8d63-abfe21daf5ca" name="Default Changelist" comment="" />
+      <created>1545739423854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545739423854</updated>
+      <workItem from="1545739439877" duration="2423000" />
+      <workItem from="1545748957556" duration="11553000" />
+      <workItem from="1546702755358" duration="510000" />
+      <workItem from="1546703333146" duration="1157000" />
+      <workItem from="1546704668168" duration="1301000" />
+      <workItem from="1546706610502" duration="368000" />
+      <workItem from="1546707383361" duration="21501000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38813000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2651137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/Server.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/FollowNUnfollowMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/impl/echo/EchoClient.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/ConnectionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/Reactor.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/impl/echo/EchoProtocol.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/MessagingProtocol.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/bidi/ConnectionHandler.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/FollowUnfollowMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/LoginMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/LogoutMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/PMMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/PostMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/RegisterMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/StatsRequestMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/messages/UserListRequestMessage.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/bidi/BidiMessagingProtocol.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/ConnectionsImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/bidi/Connections.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/Message.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/api/MessageEncoderDecoder.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/impl/echo/LineMessageEncoderDecoder.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/src/main/java/bgu/spl/net/srv/BaseServer.java" />
+    <entry file="file://$PROJECT_DIR$/../spl-net/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BaseServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="49" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/messages/LogoutMessage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="99" column="31" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="31" />
+          <folding>
+            <element signature="e#2590#2591#0" expanded="true" />
+            <element signature="e#2621#2622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/BlockingConnectionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/dataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#1922#1923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BGSServer/TPCMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/impl/BGSServer/ReactorMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/BGSProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="93" column="59" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#14889#14890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/Reactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="129" column="18" selection-start-line="129" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/srv/NonBlockingConnectionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="125" column="41" selection-start-line="125" selection-start-column="41" selection-end-line="125" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bgu/spl/net/api/ConnectionsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

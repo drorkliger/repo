@@ -1,5 +1,5 @@
 =========================================================================================
-			DSP ASSIGNMENT 1 by Dror Kliger
+		  Distributed system programming ass1 by Dror Kliger
 =========================================================================================
 		THIS FILE CONTAINS INSTRUCTIONS FOR THIS PROJECT
 How to use:
